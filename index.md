@@ -2,17 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# NeurIPS 2020 Workshop on Computer-Aided Programming
 
-[Link to another page](./another-page.html).
+There are many tasks that could be automated by writing computer programs, but most people don’t know how to program computers (this is the subject of program synthesis, the study of how to automatically write programs from user specifications). Building tools for doing computer-assisted-programming could thus improve the lives of many people (and it’s also a cool research problem!). There has been substantial recent interest in the ML community in the problem of automatically writing computer programs from user specifications, as evidenced by the increased volume of Program Synthesis submissions to ICML, ICLR, and NeurIPS.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# CAP Workshop!
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Despite this recent work, a lot of exciting questions are still open, such as how to combine symbolic reasoning over programs with deep learning, how to represent programs and user specifications, and how to apply program synthesis within computer vision, robotics, and other control problems. There is also work to be done on fusing work done in the ML community with research on Programming Languages (PL) through collaboration between the ML and PL communities, and there remains the challenge of establishing benchmarks that allow for easy comparison and measurement of progress. The aim of the CAP workshop is to address these points. This workshop will bring together researchers in programming languages, machine learning, and related areas who are interested in program synthesis and other methods for automatically writing programs from a specification of intended behavior.
 
 ## Header 2
 
