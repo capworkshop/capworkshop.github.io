@@ -18,14 +18,14 @@ Despite this recent work, a lot of exciting questions are still open, such as ho
 
 ## Speakers
 
-*   Xinyun Chen
-*   Roopsha Samanta
-*   Sam McCandlish
-*   Kevin Ellis
-*   Elena Glassman
-*   Swarat Chaudhuri
-*   Satish Chandra
-*   Sumit Gulwani
+*   [Xinyun Chen](https://jungyhuk.github.io/)
+*   [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/)
+*   [Sam McCandlish](http://physics.bu.edu/people/show/sammc)
+*   [Kevin Ellis](https://web.mit.edu/ellisk/www/)
+*   [Elena Glassman](https://glassmanlab.seas.harvard.edu/)
+*   [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/)
+*   [Satish Chandra](https://sites.google.com/site/schandraacmorg/)
+*   [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/)
 
 ## Schedule
 
