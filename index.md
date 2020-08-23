@@ -37,8 +37,8 @@ Despite this recent work, a lot of exciting questions are still open, such as ho
 *  [Işıl Dillig](https://www.cs.utexas.edu/~isil/)
 *  [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html)
 *  [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/)
-*  [Armando Solar-Lezama](Armando Solar-Lezama)
-*  [Augustus Odena](Augustus Odena)
+*  [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/)
+*  [Augustus Odena](https://www.augustusodena.com/)
 
 ## PC Members
 
