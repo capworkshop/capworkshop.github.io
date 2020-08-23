@@ -8,110 +8,41 @@ There are many tasks that could be automated by writing computer programs, but m
 
 Despite this recent work, a lot of exciting questions are still open, such as how to combine symbolic reasoning over programs with deep learning, how to represent programs and user specifications, and how to apply program synthesis within computer vision, robotics, and other control problems. There is also work to be done on fusing work done in the ML community with research on Programming Languages (PL) through collaboration between the ML and PL communities, and there remains the challenge of establishing benchmarks that allow for easy comparison and measurement of progress. The aim of the CAP workshop is to address these points. This workshop will bring together researchers in programming languages, machine learning, and related areas who are interested in program synthesis and other methods for automatically writing programs from a specification of intended behavior.
 
-## Header 2
+## Call for Participation
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+(coming soon!)
 
-### Header 3
+## Key Dates
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+(coming soon!)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Speakers
 
-#### Header 4
+*   Xinyun Chen
+*   Roopsha Samanta
+*   Sam McCandlish
+*   Kevin Ellis
+*   Elena Glassman
+*   Swarat Chaudhuri
+*   Satish Chandra
+*   Sumit Gulwani
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Schedule
 
-##### Header 5
+(coming soon!)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Organizers
 
-###### Header 6
+(coming soon!)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## PC Members
 
-### There's a horizontal rule below this.
+(coming soon!)
 
-* * *
+## References
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+(coming soon!)
 
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
