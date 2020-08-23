@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# NeurIPS 2020 Workshop on Computer-Aided Programming
+# NeurIPS 2020 Workshop on Computer-Assisted Programming
 
 There are many tasks that could be automated by writing computer programs, but most people don’t know how to program computers (this is the subject of program synthesis, the study of how to automatically write programs from user specifications). Building tools for doing computer-assisted-programming could thus improve the lives of many people (and it’s also a cool research problem!). There has been substantial recent interest in the ML community in the problem of automatically writing computer programs from user specifications, as evidenced by the increased volume of Program Synthesis submissions to ICML, ICLR, and NeurIPS.
 
