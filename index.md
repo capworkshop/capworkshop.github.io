@@ -15,7 +15,7 @@ We welcome papers from both the Programming Languages and Machine Learning commu
 Content of traditional workshop papers should be largely original.
 All submissions should be anonymized, limited to 4 pages in length (with unlimited pages for references), and can be typeset 
 the style of any major Machine Learning or Programming Languages conference (e.g. PLDI, POPL, NeurIPS, ICLR, ICML).
-Submissions and reviewing will be done through OpenReview: https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/CAP
+Submissions and reviewing will be done through OpenReview: [LINK](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/CAP)
 We intend for each submission to receive 2 reviews, but we can't (at present) guarantee this.
 There will be no formal workshop proceedings, and so submission to this workshop does not preclude submission to any other venue,
 so long as the other venue allows it.
