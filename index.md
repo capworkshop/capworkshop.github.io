@@ -10,11 +10,35 @@ Despite this recent work, a lot of exciting questions are still open, such as ho
 
 ## Call for Participation
 
-(coming soon!)
+We encourage position papers, work-in-progress submissions, and traditional workshop papers.
+We welcome papers from both the Programming Languages and Machine Learning communities, and we especially encourage crossover work.
+Content of traditional workshop papers should be largely original.
+All submissions should be anonymized, limited to 4 pages in length (with unlimited pages for references), and can be typeset 
+the style of any major Machine Learning or Programming Languages conference (e.g. PLDI, POPL, NeurIPS, ICLR, ICML).
+Submissions and reviewing will be done through OpenReview: https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/CAP
+We intend for each submission to receive 2 reviews, but we can't (at present) guarantee this.
+There will be no formal workshop proceedings, and so submission to this workshop does not preclude submission to any other venue,
+so long as the other venue allows it.
+Submissions will be evaluated for correctness and originality.
+
+We will consider as in-scope anything that relates at least tangentially to computer-assisted programming;
+the following is an incomplete list of in-scope topics:
+
+*  Program Synthesis, in general
+*  Collaborative human / computer programming, and generally work at the intersection of synthesis and HCI
+*  Techniques for analyzing large code bases
+*  Application of machine learning to code recommendation and autocompletion, test generation, program repair, and debugging
+*  Representations of programming languages and machine learning
+
+Please don't hesitate to email the organizers with questions.
 
 ## Key Dates
 
-(coming soon!)
+Paper submission deadline: October 5th
+Notification of acceptance: October 30th
+Final Papers Due: December 1st
+Workshop: December 11 or 12 (TBD)
+All deadlines are at 11:59pm anywhere-on-earth
 
 ## Speakers
 
@@ -43,11 +67,3 @@ Despite this recent work, a lot of exciting questions are still open, such as ho
 ## PC Members
 
 (coming soon!)
-
-## References
-
-(coming soon!)
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
