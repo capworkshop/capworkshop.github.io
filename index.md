@@ -35,11 +35,11 @@ Please don't hesitate to email the organizers with questions.
 
 ## Key Dates
 
-Paper submission deadline: October 5th
-Notification of acceptance: October 30th
-Final Papers Due: December 1st
-Workshop: December 11 or 12 (TBD)
-All deadlines are at 11:59pm anywhere-on-earth
+*  Paper submission deadline: October 5th
+*  Notification of acceptance: October 30th
+*  Final Papers Due: December 1st
+*  Workshop: December 11 or 12 (TBD)
+*  All deadlines are at 11:59pm anywhere-on-earth
 
 ## Speakers
 
