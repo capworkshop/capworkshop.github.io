@@ -4,6 +4,8 @@ layout: default
 
 # NeurIPS 2020 Workshop on Computer-Assisted Programming
 
+**[Submissions open](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/CAP) to the workshop! Deadline: October 5th**
+
 There are many tasks that could be automated by writing computer programs, but most people don’t know how to program computers (this is the subject of program synthesis, the study of how to automatically write programs from user specifications). Building tools for doing computer-assisted-programming could thus improve the lives of many people (and it’s also a cool research problem!). There has been substantial recent interest in the ML community in the problem of automatically writing computer programs from user specifications, as evidenced by the increased volume of Program Synthesis submissions to ICML, ICLR, and NeurIPS.
 
 Despite this recent work, a lot of exciting questions are still open, such as how to combine symbolic reasoning over programs with deep learning, how to represent programs and user specifications, and how to apply program synthesis within computer vision, robotics, and other control problems. There is also work to be done on fusing work done in the ML community with research on Programming Languages (PL) through collaboration between the ML and PL communities, and there remains the challenge of establishing benchmarks that allow for easy comparison and measurement of progress. The aim of the CAP workshop is to address these points. This workshop will bring together researchers in programming languages, machine learning, and related areas who are interested in program synthesis and other methods for automatically writing programs from a specification of intended behavior.
@@ -13,9 +15,9 @@ Despite this recent work, a lot of exciting questions are still open, such as ho
 We encourage position papers, work-in-progress submissions, and traditional workshop papers.
 We welcome papers from both the Programming Languages and Machine Learning communities, and we especially encourage crossover work.
 Content of traditional workshop papers should be largely original.
-All submissions should be anonymized, limited to 4 pages in length (with unlimited pages for references), and can be typeset 
+All submissions should be anonymized, limited to **4 pages** in length (with unlimited pages for references), and can be typeset 
 the style of any major Machine Learning or Programming Languages conference (e.g. PLDI, POPL, NeurIPS, ICLR, ICML).
-Submissions and reviewing will be done through OpenReview: [LINK](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/CAP)
+Submissions and reviewing will be done through OpenReview: **[Submission link for OpenReview](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/CAP)**
 
 We intend for each submission to receive 2 reviews, but we can't (at present) guarantee this.
 There will be no formal workshop proceedings, and so submission to this workshop does not preclude submission to any other venue,
