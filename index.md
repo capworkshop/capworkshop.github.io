@@ -90,4 +90,12 @@ Please don't hesitate to email the organizers with questions.
 
 ## PC Members
 
-(coming soon!)
+* Caroline Lemieux, University of California, Berkeley
+* Maxwell Nye, MIT
+* Osbert Bastani, University of Pennsylvania
+* Pavol Bielik, ETH Zurich
+* Alex Polozov, Microsoft Research
+* Richard Shin, University of California, Berkeley
+* Uri Alon, Technion
+* Xujie Si, McGill University
+* Yewen Pu, MIT
