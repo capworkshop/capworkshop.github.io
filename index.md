@@ -4,13 +4,35 @@ layout: default
 
 # NeurIPS 2020 Workshop on Computer-Assisted Programming
 
-**Note: the deadline has been extended to October 12th 11:59PM AoE**
+**Date**: Saturday Dec 12 2020
 
-**[Submissions open](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/CAP) to the workshop! Deadline: October 12th**
+**Workshop Proceedings**: (https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/CAP) 
 
 There are many tasks that could be automated by writing computer programs, but most people don’t know how to program computers (this is the subject of program synthesis, the study of how to automatically write programs from user specifications). Building tools for doing computer-assisted-programming could thus improve the lives of many people (and it’s also a cool research problem!). There has been substantial recent interest in the ML community in the problem of automatically writing computer programs from user specifications, as evidenced by the increased volume of Program Synthesis submissions to ICML, ICLR, and NeurIPS.
 
 Despite this recent work, a lot of exciting questions are still open, such as how to combine symbolic reasoning over programs with deep learning, how to represent programs and user specifications, and how to apply program synthesis within computer vision, robotics, and other control problems. There is also work to be done on fusing work done in the ML community with research on Programming Languages (PL) through collaboration between the ML and PL communities, and there remains the challenge of establishing benchmarks that allow for easy comparison and measurement of progress. The aim of the CAP workshop is to address these points. This workshop will bring together researchers in programming languages, machine learning, and related areas who are interested in program synthesis and other methods for automatically writing programs from a specification of intended behavior.
+
+## Schedule
+
+The workshop will be held on **Saturday Dec 12 2020**. All times are PT.
+
+ Time  | Speaker  
+---|---
+ 8:30 AM | Welcome Talk
+ 8:40 AM | Sumit Gulwani
+ 9:10 AM | Roopsha Samanta
+ 9:40 AM | Spotlight Talks I 
+10:10 AM | **Poster Session (gather.town)** 
+11:00 AM | Swarat Chaudhuri
+11:30 AM | Elena Glassman
+12:00 PM | Spotlight Talks II
+12:30 PM  | Kevin Ellis
+1:00 PM | **Lunch and posters (gather.town)**
+2:30 PM  | Satish Chandra
+3:00 PM  | Xinyun Chen
+3:30 PM  | Panel
+4:00 PM  | Close
+
 
 ## Call for Participation
 
@@ -56,10 +78,6 @@ Please don't hesitate to email the organizers with questions.
 *   [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/)
 *   [Satish Chandra](https://sites.google.com/site/schandraacmorg/)
 *   [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/)
-
-## Schedule
-
-(coming soon!)
 
 ## Organizers
 
